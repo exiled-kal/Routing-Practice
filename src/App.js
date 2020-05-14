@@ -6,6 +6,7 @@ import PageTwo from './component/PageTwo';
 import Hello from './component/Hello';
 import Color from './component/Color';
 
+
 function App() {
   return (
     <div className="App">
@@ -18,5 +19,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
